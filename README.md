@@ -14,7 +14,7 @@
 ## Exécution :
   Pour exécuter le programme il faut exécuter la commande suivante à la racine du projet avec en argument la méthode à utiliser : 
   ```
-  ./TP9
+  ./Demineur
   ```
 
 ## Documentation :
